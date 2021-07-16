@@ -1,0 +1,25 @@
+body{
+    margin: 100px ;
+    background-image: linear-gradient(to right,#FCD8D4, #7C83FD);
+}
+
+table,.btn{
+    color: #fff;
+}
+
+th,td{
+    text-align: center;
+    font-size: 15pt;
+    
+}
+
+.modal-content{
+    background-image: linear-gradient(to right,#F9B208,#E4EFE7);
+    text-align: center;
+}
+
+@media  screen and (max-width:600px) {
+    .btn{
+        width: 110px;
+    }
+}
